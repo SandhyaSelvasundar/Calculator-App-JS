@@ -1,4 +1,4 @@
-# [Simple Calculator App (Dark Theme)](https://just-fe-calc.netlify.app/)
+# [Calculator App (Toggle Theme - Dark/Light)](https://college-track.netlify.app/)
 
 A responsive web-based calculator built with **Vanilla JavaScript** for performing basic arithmetic operations.
 
